@@ -1,3 +1,3 @@
 setTimeout(function() {
-alert('Hello!');
+//alert('Hello!');
 }, 2000);
